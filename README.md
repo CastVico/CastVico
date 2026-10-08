@@ -4,7 +4,7 @@
 <p>
   <a href="https://victorcastelain.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img alt="Portfolio" src="assets/btn-portfolio-light.svg" height="52"></picture></a>
   <a href="https://victorcastelain.com/cv/Victor-Castelain-CV-EN.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg"><img alt="Resume PDF" src="assets/btn-resume-light.svg" height="52"></picture></a>
-  <a href="https://www.linkedin.com/in/victor-castelain-108a4a359/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="52"></picture></a>
+  <a href="https://www.linkedin.com/in/victorcastelain/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="52"></picture></a>
   <a href="mailto:victor.castelain@hotmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="Email" src="assets/btn-email-light.svg" height="52"></picture></a>
 </p>
 
